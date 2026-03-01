@@ -1,7 +1,7 @@
 # Retouch Your Photo
 
 <div align="center">
-  <img width="700" alt="image" src="https://github.com/user-attachments/assets/3a571d68-dc94-4919-b9d8-1d1e53443e08" />
+  <img width="650" alt="image" src="https://github.com/user-attachments/assets/3a571d68-dc94-4919-b9d8-1d1e53443e08" />
 </div>
 
 <br/><br/>
