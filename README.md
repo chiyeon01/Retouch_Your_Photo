@@ -1,4 +1,4 @@
-# Retouch-Your-Photo
+# Retouch Your Photo
 <br/><br/>
 
 # 1. 서비스 개요
