@@ -1,4 +1,9 @@
 # Retouch Your Photo
+
+<div align="center">
+  <img width="400" alt="image" src="https://github.com/user-attachments/assets/e10e8ef1-be6a-4c65-8712-2eea0160557e" />
+</div>
+
 <br/><br/>
 
 # 1. 서비스 개요
@@ -29,7 +34,9 @@
 
 # 2. 모델 아키텍처
 
-<img width="817" height="432" alt="image" src="https://github.com/user-attachments/assets/d1f15672-478c-446e-9797-1da83d3ff691" />
+<div align="center">
+  <img width="650" alt="image" src="https://github.com/user-attachments/assets/d1f15672-478c-446e-9797-1da83d3ff691" />
+</div>
 
 ### 모델 개요
 
