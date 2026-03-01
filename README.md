@@ -61,4 +61,6 @@
 <br/><br/>
 
 # 3. 레퍼런스
-[Retouch Your Photo VELOG](https://velog.io/@chiyeon01/Project-Retouching-Your-Photo)
+
+[Retouch Your Photo VELOG](https://velog.io/@chiyeon01/Project-Retouching-Your-Photo)<br/>
+[Retouch Your Photo PPT](https://www.canva.com/design/DAHAiN_OG68/3itKJNmlflSALfVwwKLIfw/edit?utm_content=DAHAiN_OG68&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
