@@ -1,7 +1,7 @@
 # Retouch Your Photo
 
 <div align="center">
-  <img width="650" alt="image" src="https://github.com/user-attachments/assets/3a571d68-dc94-4919-b9d8-1d1e53443e08" />
+  <img width="600" alt="image" src="https://github.com/user-attachments/assets/3a571d68-dc94-4919-b9d8-1d1e53443e08" />
 </div>
 
 <br/><br/>
@@ -60,7 +60,15 @@
 
 <br/><br/>
 
-# 3. 레퍼런스
+# 3. 데모 영상
+
+<div align="center">
+  <img src="demo.gif" width="300" alt="Retouch Your Photo Demo" />
+</div>
+
+<br/><br/>
+
+# 4. 추가 레퍼런스
 
 [Retouch Your Photo VELOG](https://velog.io/@chiyeon01/Project-Retouching-Your-Photo)<br/>
 [Retouch Your Photo PPT](https://www.canva.com/design/DAHAiN_OG68/3itKJNmlflSALfVwwKLIfw/edit?utm_content=DAHAiN_OG68&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
