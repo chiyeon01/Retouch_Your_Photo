@@ -16,6 +16,8 @@
 | 🍽️ 카테고리 지원 | 음식(Food), 인물(Portrait) 카테고리별 모델 제공 |
 | 🧭 6축 가이드라인 | 좌우 / 위아래 / 앞뒤 / 기울기 / 회전 / 좋음 |
 
+<br/>
+
 ### 촬영 가이드라인 상세
 
 ```
@@ -36,6 +38,18 @@
 - 특정 작가의 사진 데이터를 수집하여 카테고리별로 학습
 - 작가의 구도·조명·색감 등 스타일 특성을 추출
 - 실시간 추론에 최적화된 경량화 구조 적용
+
+<br/>
+
+### 모델 세부내용
+
+모델의 세부 내용은 다음과 같습니다.
+
+- **YOLO:** 객체 위치를 탐지한 후 자체적인 processing
+- **Depth Estimator:** 프레임의 3D 원근감 추출 후 processing
+- **MobileNet:** 프레임의 기본적인 feature map 추출
+- **Embedding:** 특정 작가의 특징 추출
+- **Regression Layer:** concate된 feature map을 토대로 (○, 6) 형태의 통계적 값을 반환하는 fully-connected-layer
 
 <br/><br/>
 
